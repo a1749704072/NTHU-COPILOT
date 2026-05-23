@@ -1,0 +1,1 @@
+OCR failed. Please check OCR dependencies in the Python (OCR) kernel. PaddleOCR, Tesseract, or EasyOCR can be used. Errors: paddleocr: No module named 'paddleocr' | tesseract: No module named 'pytesseract' | easyocr: No module named 'easyocr'
